@@ -1,4 +1,4 @@
-﻿//ooo
+﻿
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using SmartFoundation.Application.Services;
