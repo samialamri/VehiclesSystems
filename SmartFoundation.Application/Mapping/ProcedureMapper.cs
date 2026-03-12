@@ -49,7 +49,8 @@ public static class ProcedureMapper
         { "aichat:saveHistory", "dbo.Masters_CRUD" },  // ✅ نرجع لـ Masters_CRUD
         { "aichat:saveFeedback", "dbo.Masters_CRUD" },
         { "aichat:getHistory", "dbo.Masters_DataLoad" },
-        { "aichat:getStatistics", "dbo.Masters_DataLoad" }
+        { "aichat:getStatistics", "dbo.Masters_DataLoad" },
+        { "vehicle:list", "VIC.Vehicle_List_DL" }
     };
 
     /// <summary>
